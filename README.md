@@ -1,6 +1,7 @@
 # Rickipedia - Your Ultimate Rick and Morty Explorer
 
-![Rickipedia Banner](https://via.placeholder.com/1200x400)
+![Rickipedia Banner](<img width="853" alt="{022D26BB-DA52-4D4B-BDD5-0D77419B21A7}" src="https://github.com/user-attachments/assets/ed1c6dc3-66f5-40f4-bc62-8ee67bd1044e">
+)
 
 Rickipedia is a React-based web application that allows you to explore the vast universe of the hit TV show, Rick and Morty. With this app, you can browse through a comprehensive list of characters, learn about their origins, status, and more.
 
