@@ -14,7 +14,8 @@ Rickipedia is a React-based web application that allows you to explore the vast 
 
 ## Screenshot
 
-![Rickipedia Screenshot](https://via.placeholder.com/800x500)
+![Rickipedia Screenshot](![Uploading {022D26BB-DA52-4D4B-BDD5-0D77419B21A7}.png…]()
+)
 
 ## Getting Started
 
